@@ -1,0 +1,1 @@
+This release contains the `Coronavirus (COVID-19) Cases and Deaths` data released by the World Health Organization (WHO). This dataset updates daily, and provides new cases, cumulative cases, new deaths, and cumulative death counts by country as a result of the COVID-19 pandemic.
