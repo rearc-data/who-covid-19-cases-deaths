@@ -1,6 +1,6 @@
 # Coronavirus (COVID-19) Cases and Deaths | World Health Organization (WHO)
 
-The source code outlining how this product gathers, transforms, revises and publishes its datasets is avaiable at [https://github.com/rearc-data/who-covid-19-cases-deaths](https://github.com/rearc-data/who-covid-19-cases-deaths).
+The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/who-covid-19-cases-deaths](https://github.com/rearc-data/who-covid-19-cases-deaths).
 
 ## Product Description
 This release contains the `Coronavirus (COVID-19) Cases and Deaths` data released by the World Health Organization (WHO). This dataset updates daily, and provides new cases, cumulative cases, new deaths, and cumulative death counts by country as a result of the COVID-19 pandemic.
