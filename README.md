@@ -6,7 +6,7 @@
 
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-mjcf5mdms4wvw](https://aws.amazon.com/marketplace/pp/prodview-mjcf5mdms4wvw). 
 
-## Product Description
+## Main Overview
 This release contains the `Coronavirus (COVID-19) Cases and Deaths` data released by the World Health Organization (WHO). This dataset updates daily, and provides new cases, cumulative cases, new deaths, and cumulative death counts by country as a result of the COVID-19 pandemic.
 
 If you are intersted in learning more about WHO's efforts to combat the COVID-19 pandemic, please visit their [Coronavirus disease (COVID-19) Pandemic Homepage](https://www.who.int/emergencies/diseases/novel-coronavirus-2019).
@@ -21,7 +21,7 @@ The resource is provided in CSV and JSON Lines format. The included dataset incl
 - [World Heath Organization (WHO) | Coronavirus disease (COVID-19) Pandemic Homepage](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 - [License | Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
 - Frequency: Daily
-- Format: json, csv
+- Formats:CSV, JSON Lines
 
 ## Contact Details
 - If you find any issues or have enhancements with this product, open up a GitHub [issue](https://github.com/rearc-data/who-covid-19-cases-deaths/issues) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
