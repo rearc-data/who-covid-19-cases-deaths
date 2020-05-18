@@ -16,7 +16,7 @@ The resource is provided in CSV and JSON Lines format. The included dataset incl
 
 `OBJECTID, ISO_2_CODE, ISO_3_CODE, ADM0_NAME, date_epicrv, NewCase, CumCase, NewDeath, CumDeath, Short_Name_ZH, Short_Name_FR, Short_Name_ES, Short_Name_RU, Short_Name_AR`
 
-# More Information
+## More Information
 - [Source - Humanitarian Data Exchange (HDX) | Coronavirus (COVID-19) Cases and Deaths](https://data.humdata.org/dataset/coronavirus-covid-19-cases-and-deaths)
 - [World Heath Organization (WHO) | Coronavirus disease (COVID-19) Pandemic Homepage](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 - [License | Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
